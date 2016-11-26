@@ -2,4 +2,4 @@
 
 ## Talk for PywebIL meetup
 
-## Live presentation [here](http://alonisser.github.io/strangler-pattern-talk)
+## Live presentation [here](https://alonisser.github.io/strangler-pattern-talk)
